@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on Portfolio Project.
 - 🌱 I’m currently learning JavaScript and it's frameworks.
-- 📫 How to reach me: https://www.linkedin.com/in/ayush-paliwal-358862227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-paliwal-358862227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🛠 Tech Stack:
 - Language: Java
@@ -15,7 +15,7 @@
 - [WhatsChat](https://github.com/Ayushh2609/WhatsChat.git) - WhatsChat allows you to start a WhatsApp conversation with any number directly, without the need to save it to your contacts. Simplify your messaging experience by quickly loading chats with unknown numbers
 
 ### 📈 GitHub Stats:
-Repositories: 25
+Repositories: 25 \n
 Top Repositories:
 PortFolio: My portfolio that contains all my applications.
 TicTacToe: A simple TicTacToe game created as a learning project.
