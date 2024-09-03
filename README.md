@@ -17,6 +17,4 @@
 
 ### 📈 GitHub Stats:
 - Repositories: 5
-- Top Repositories:
-PortFolio: My portfolio that contains all my applications.
-TicTacToe: A simple TicTacToe game created as a learning project.
+- Top Repositories: PortFolio, TicTacToe
