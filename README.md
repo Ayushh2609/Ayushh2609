@@ -15,7 +15,7 @@
 - [WhatsChat](https://github.com/Ayushh2609/WhatsChat.git) - WhatsChat allows you to start a WhatsApp conversation with any number directly, without the need to save it to your contacts. Simplify your messaging experience by quickly loading chats with unknown numbers
 
 ### 📈 GitHub Stats:
-Repositories: 25 \n
-Top Repositories:
+- Repositories: 25
+- Top Repositories:
 PortFolio: My portfolio that contains all my applications.
 TicTacToe: A simple TicTacToe game created as a learning project.
