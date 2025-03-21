@@ -1,8 +1,7 @@
 # Hi there, I'm Ayush Paliwal 👋
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on Portfolio Project.
-- 🌱 I’m currently learning JavaScript and it's frameworks.
+- 🔭 I’m currently working on Food ordering Project.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-paliwal-358862227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🛠 Tech Stack:
