@@ -18,5 +18,5 @@
 - [MyNotes](https://github.com/Ayushh2609/MyNotes) - MyNotes — A simple Android notes app using Room Database for local storage and seamless note management.
 
 ### 📈 GitHub Stats:
-- Repositories: 9
+- Repositories: 7
 - Top Repositories: MyNotes, PortFolio, TicTacToe
