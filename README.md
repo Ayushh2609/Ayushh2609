@@ -10,6 +10,8 @@
 - Frameworks: Java
 
 ### 🚀 Projects:
+- ### 🚀 Projects:
+- [Nukkad Eats](https://github.com/Ayushh2609/Nukkad-Eats) - A full-featured food ordering application with a user-friendly interface, enabling users to browse menus, place orders, and track their deliveries.
 - [Firewall-Implementation](https://github.com/Ayushh2609/Firewall-Implementation.git) - This projects helps to implement UFW firewall, UFW (Uncomplicated Firewall) is a user-friendly command-line interface for managing the Linux firewall.
 - [Portfolio](https://github.com/Ayushh2609/Portfolio.git) - This Android app serves as a personalized app store, showcasing all your Android development projects. Explore the collection of apps you've created, view their details, and easily access their GitHub repositories for further exploration or collaboration.
 - [WhatsChat](https://github.com/Ayushh2609/WhatsChat.git) - WhatsChat allows you to start a WhatsApp conversation with any number directly, without the need to save it to your contacts. Simplify your messaging experience by quickly loading chats with unknown numbers
@@ -18,4 +20,4 @@
 
 ### 📈 GitHub Stats:
 - Repositories: 7
-- Top Repositories: MyNotes, PortFolio, TicTacToe
+- Top Repositories: Nukkad Eats, MyNotes, PortFolio, TicTacToe
