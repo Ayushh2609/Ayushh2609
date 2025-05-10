@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Paliwal 👋
+w# Hi there, I'm Ayush Paliwal 👋
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on Food ordering Project.
@@ -20,4 +20,4 @@
 
 ### 📈 GitHub Stats:
 - Repositories: 10
-- Top Repositories: Nukkad Eats/Nukkad Eats Admin,MyNotes PortFolio, TicTacToe
+- Top Repositories: Nukkad Eats/Nukkad Eats Admin, PortFolio, TicTacToe
