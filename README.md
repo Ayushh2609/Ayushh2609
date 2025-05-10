@@ -20,4 +20,4 @@ w# Hi there, I'm Ayush Paliwal 👋
 
 ### 📈 GitHub Stats:
 - Repositories: 10
-- Top Repositories: Nukkad Eats/Nukkad Eats Admin, PortFolio, TicTacToe
+- Top Repositories: Nukkad Eats/Nukkad Eats Admin, MyNotes, PortFolio, TicTacToe
