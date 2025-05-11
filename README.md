@@ -5,7 +5,7 @@ w# Hi there, I'm Ayush Paliwal 👋
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-paliwal-358862227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🛠 Tech Stack:
-- Language: Java
+- Language: Java, Kotlin
 - Tools: Android Studio, Android SDK, Postman, Git/GitHub, Android Device Emulator
 - Frameworks: Java
 
