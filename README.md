@@ -1,4 +1,4 @@
-w# Hi there, I'm Ayush Paliwal 👋
+# Hi there, I'm Ayush Paliwal 👋
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on Food ordering Project.
