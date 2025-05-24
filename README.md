@@ -18,7 +18,6 @@
 - [Tic-Tac-Toe](https://github.com/Ayushh2609/TicTacToe.git) - This TicTacToe game is my very first Android application, created during my learning journey in Android development. It’s a classic implementation of the timeless TicTacToe game, where two players take turns to mark Xs and Os on a 3x3 grid. The game checks for a winner after each move and declares the result once the game is over.
 - [MyNotes](https://github.com/Ayushh2609/MyNotes) - MyNotes — A simple Android notes app using Room Database for local storage and seamless note management.
 
-
 ### 📈 GitHub Stats:
 - Repositories: 10
 - Top Repositories: Nukkad Eats/Nukkad Eats Admin, MyNotes, PortFolio, TicTacToe
