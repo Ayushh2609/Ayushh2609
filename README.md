@@ -1,7 +1,7 @@
 # Hi there, I'm Ayush Paliwal 👋
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on Food ordering Project.
+- 🔭 I’m currently working on Weather Report Application.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-paliwal-358862227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ### 🛠 Tech Stack:
@@ -19,5 +19,5 @@
 - [MyNotes](https://github.com/Ayushh2609/MyNotes) - MyNotes — A simple Android notes app using Room Database for local storage and seamless note management.
 
 ### 📈 GitHub Stats:
-- Repositories: 10
+- Repositories: 13
 - Top Repositories: Nukkad Eats/Nukkad Eats Admin, MyNotes, PortFolio, TicTacToe
