@@ -9,7 +9,6 @@
 - Tools: Android Studio, Android SDK, Postman, Git/GitHub, Android Device Emulator
 - Frameworks: Java
   
-
 ### 🚀 Projects:
 - ### 🚀 Projects:
 - [Nukkad Eats](https://github.com/Ayushh2609/Nukkad-Eats) - A full-featured food ordering application with a user-friendly interface, enabling users to browse menus, place orders, and track their deliveries.
